@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zishankhan8000@gmail.com**
 
-- ⚡ About Me **I'm passionate about learning and I Like connecting others developers**
+- ⚡ About Me **I'm passionate about learning and I Like connecting other developers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
